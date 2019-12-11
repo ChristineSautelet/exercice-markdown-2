@@ -19,6 +19,8 @@ Pour du texte en barré il faut mettre le texte entre ~~ <br>
 
 ### Les liens
 
+On peut mettre un lien vers une site en flat, donc juste ctrl+v le lien.
+
 ### Les images
 
 ### Les titres
