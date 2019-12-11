@@ -19,4 +19,5 @@ Ce language a été créé en 2004 par John Gruber et Aaron Swartz et n’a pas 
 
 ![John Gruber](/John.jpg)
 
+By Esteban, Jean, Najwa, Christine.
 
