@@ -15,4 +15,4 @@ La structuration est très simplifiée car il y a peu de fichier et peu de texte
 
 Cet exercice vient des coachs, et il est plûtot amusant.
 
-Fin.
+Fin !
