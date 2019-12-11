@@ -4,7 +4,10 @@
 --------------------------
 - Qu'est ce que Markdown.
 - L'histoire du Markdown.
+<<<<<<< HEAD
 - [Syntaxe](/Markdown-synthaxe.md)
+
+=======
 
 
 ## Qu'est-ce que Markdown ? 
@@ -18,8 +21,10 @@ Les fichiers sont généralement enregistrés avec l’extension .md (ou .markdo
 ## L'histoire du Markdown.
 -------------------------------
 Ce language a été créé en 2004 par John Gruber et Aaron Swartz et n’a pas évolué depuis. Même si de nombreuses extensions et “extras” sont venues se greffer au projet originel. Le projet initial avec sa documentation est sur [daringfireball.](https://daringfireball.net/projects/markdown/)
+
 ![John Gruber](/John.jpg)
 
+By Esteban, Jean, Najwa, Christine.
 
 
 By Esteban,Jean,Christine,Nawja. 
