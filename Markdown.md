@@ -2,8 +2,8 @@
 ***********************
 ## Contenus
 --------------------------
--Qu'est ce que Markdown.
--L'histoire du Markdown.
+- Qu'est ce que Markdown.
+- L'histoire du Markdown.
 
 ## Qu'est-ce que Markdown ? 
 ------------------------------
