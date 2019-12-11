@@ -19,9 +19,9 @@ Pour du texte en barré il faut mettre le texte entre ~~ <br>
 
 ### Les liens
 
-On peut mettre un lien vers une site en flat, donc juste ctrl+v le lien.
-On peut mettre du texte en lien en mettant le mot entre crochet puis le lien entre paranthèse.
-De plus dans les paranthèse si on met des mots entre gillemet, cela donnera un titre.
+On peut mettre un lien vers une site en flat, donc juste ctrl+v le lien. <br>
+On peut mettre du texte en lien en mettant le mot entre crochet puis le lien entre paranthèse. <br>
+De plus dans les paranthèse si on met des mots entre gillemet, cela donnera un titre. <br>
 
 ### Les images
 
