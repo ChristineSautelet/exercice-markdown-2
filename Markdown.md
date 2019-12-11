@@ -6,7 +6,7 @@
 - L'histoire du Markdown.
 - [Syntaxe](/Markdown-synthaxe.md)
 
-=======
+
 
 
 ## Qu'est-ce que Markdown ? 
@@ -26,4 +26,4 @@ Ce language a été créé en 2004 par John Gruber et Aaron Swartz et n’a pas 
 By Esteban, Jean, Najwa, Christine.
 
 
-By Esteban,Jean,Christine,Nawja. 
+ 
