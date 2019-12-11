@@ -4,7 +4,6 @@
 --------------------------
 - Qu'est ce que Markdown.
 - L'histoire du Markdown.
-<<<<<<< HEAD
 - [Syntaxe](/Markdown-synthaxe.md)
 
 =======
