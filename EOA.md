@@ -1,0 +1,1 @@
+Pour un environnement optimisé de travail, il existe plusieurs régles.
