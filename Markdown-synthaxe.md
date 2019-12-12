@@ -25,7 +25,8 @@ De plus dans les paranthèse si on met des mots entre gillemet, cela donnera un 
 
 ### Les images
 
-Pour les images il faut simplement mettre une point d'exclamation suivis de crochet pour le titre et le lien entre parathèse.
+Pour les images il faut simplement mettre une point d'exclamation suivis de crochet pour le titre et le lien entre parathèse. <br>
+![gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ### Les titres
 
@@ -33,6 +34,13 @@ Pour avoir différent titre il suffit de mettre plus ou moins de # et plus il y 
 
 ### Les listes
 
+Pour les listes numérotées, il suffit de mettre les numéros devant pour faire la liste. <br>
+Pour faire une liste sans numéro metre simplement des - devant pour créer la liste.
+
 ### Les tables
+
+Créer la table à l'aide de "barre verticale" pour définir les colonnes, donc il en faut autour pour chaque colonne. <br>
+Mettre des tirrets dans la seconde ligne de la colonne pour indiquer que la première ligne est l'entête et que elle passe donc en gras. <br>
+On peut mettre en couleur avec le tag "SPAN", on peut centré ou aligné à gauche comme à droite à l'aide de ":" et "----"". <br>
 
 ### Autres et Bonus
