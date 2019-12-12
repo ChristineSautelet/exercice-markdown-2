@@ -13,8 +13,8 @@
 
 ### Les textes
 
-Pour du texte en gras il faut mettre le texte entre 2 * <br>
-Pour du texte en italique il faut mettre le texte entre _ <br>
+Pour du texte en gras il faut mettre le texte entre 2 * ou 2 _ <br>
+Pour du texte en italique il faut mettre le texte entre * ou _ <br>
 Pour du texte en barré il faut mettre le texte entre ~~ <br>
 
 ### Les liens
@@ -35,7 +35,7 @@ Pour avoir différent titre il suffit de mettre plus ou moins de # et plus il y 
 ### Les listes
 
 Pour les listes numérotées, il suffit de mettre les numéros devant pour faire la liste. <br>
-Pour faire une liste sans numéro metre simplement des - devant pour créer la liste.
+Pour faire une liste sans numéro metre simplement des - ou * ou + devant pour créer la liste.
 
 ### Les tables
 
@@ -44,3 +44,15 @@ Mettre des tirrets dans la seconde ligne de la colonne pour indiquer que la prem
 On peut mettre en couleur avec le tag "SPAN", on peut centré ou aligné à gauche comme à droite à l'aide de ":" et "----"". <br>
 
 ### Autres et Bonus
+
+On peut mettre des couleurs simplements avec "color:" et le nom de la couleur puis le texte. <br>
+<br>
+Il existe des smileys que on peut intégrer dans notre code, exemple (sans les espaces) : -), : -D, : -o, : ?:, ect... <br>
+<br>
+On peut identifier les gens avec un @ devant le pseudo. <br>
+<br>
+On peut identifier des nuémro avec un # + le nombre souhaité. <br>
+<br>
+Mais il ne faut pas oublier que c'est un code pour les débutants et extrèmement simplifié, on peut très bien tout coder en html et ça fonctionnerait aussi car certaines ligne de code s'inspirent de l'html. <br>
+<br>
+Najwa, Christine, Estaban, Jean. <br>
