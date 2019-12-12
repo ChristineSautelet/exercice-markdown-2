@@ -53,6 +53,9 @@ On peut identifier les gens avec un @ devant le pseudo. <br>
 <br>
 On peut identifier des nuémro avec un # + le nombre souhaité. <br>
 <br>
+<script type="text/javascript">
+    alert("Hello!");
+</script>
 Mais il ne faut pas oublier que c'est un code pour les débutants et extrèmement simplifié, on peut très bien tout coder en html et ça fonctionnerait aussi car certaines ligne de code s'inspirent de l'html. <br>
 <br>
 Najwa, Christine, Estaban, Jean. <br>
